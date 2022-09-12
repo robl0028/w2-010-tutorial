@@ -1,0 +1,30 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.masthead {
+    background-color: burlywood;
+    padding: 1rem;
+}
+
+.masthead a {
+    color: white;
+    text-decoration: none;
+}
+
+.masthead a:hover {
+    opacity: 0.5;
+}
+
+.masthead ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.masthead li {
+    display: inline-block;
+}
